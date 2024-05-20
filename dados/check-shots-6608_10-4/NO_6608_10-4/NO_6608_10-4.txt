@@ -1,0 +1,46 @@
+# LAS output file name: /project/NORL_HA/WebAppsData/wow_images/NORNE/NO_6608_10-400.las
+# Grouping Parameters:
+#MNEMONIC    .UNIT                            Information: Data type
+#------------------------------------------------------------------------------
+ STRT        .M                                  472.7500: START DEPTH
+ STOP        .M                                 2800.7500: STOP DEPTH
+ STEP        .M                                    0.1250: SAMPLE RATE
+
+#MNEMONIC                   .UNIT                 API CODE      : DESCRIPTION
+#------------------------------------------------------------------------------
+ DEPTH                      .M                                  :
+ CALI                       .inches               UNKNOWN       : Run 1, Ver 1
+ GR                         .API                  UNKNOWN       : Run 1, Ver 1
+ KLOGH                      .mD                   UNKNOWN       : Run 1, Ver 4
+ PHIF                       .v/v decimal          UNKNOWN       : Run 1, Ver 3
+ RHOB                       .g/cm3                UNKNOWN       : Run 1, Ver 1
+ RT                         .ohm.m                UNKNOWN       : Run 1, Ver 1
+ SW                         .v/v decimal          UNKNOWN       : Run 1, Ver 3
+
+# LAS output file name: /project/NORL_HA/WebAppsData/wow_images/NORNE/NO_6608_10-401.las
+# Grouping Parameters:
+#MNEMONIC    .UNIT                            Information: Data type
+#------------------------------------------------------------------------------
+ STRT        .M                                 1275.2832: START DEPTH
+ STOP        .M                                 2804.7695: STOP DEPTH
+ STEP        .M                                    0.1524: SAMPLE RATE
+
+#MNEMONIC                   .UNIT                 API CODE      : DESCRIPTION
+#------------------------------------------------------------------------------
+ DEPTH                      .M                                  :
+ DT                         .us/ft                UNKNOWN       : Run 1, Ver 1
+ RS                         .OHM.M                UNKNOWN       : Run 1, Ver 1
+
+# LAS output file name: /project/NORL_HA/WebAppsData/wow_images/NORNE/NO_6608_10-402.las
+# Grouping Parameters:
+#MNEMONIC    .UNIT                            Information: Data type
+#------------------------------------------------------------------------------
+ STRT        .M                                 2460.3457: START DEPTH
+ STOP        .M                                 2795.6255: STOP DEPTH
+ STEP        .M                                    0.1524: SAMPLE RATE
+
+#MNEMONIC                   .UNIT                 API CODE      : DESCRIPTION
+#------------------------------------------------------------------------------
+ DEPTH                      .M                                  :
+ DTS                        .us/ft                UNKNOWN       : Run 1, Ver 1
+ NPHI                       .v/v decimal          UNKNOWN       : Run 1, Ver 2

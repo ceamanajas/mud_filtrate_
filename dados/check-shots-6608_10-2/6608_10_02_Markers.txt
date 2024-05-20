@@ -1,0 +1,118 @@
+Depth	Surface name
+1.302,00	NORDLAND GP. Top
+1.302,00	Naust Fm. Top
+1.352,00	Kai Fm. Top
+1.352,00	Naust Fm. Base
+1.356,61	Kai Fm. Top
+1.570,00	Brygge Fm. Top
+1.570,00	HORDALAND GP. Top
+1.570,00	Kai Fm. Base
+1.570,00	NORDLAND GP. Base
+1.680,50	Brygge Tuff Mbr. NO Top
+1.857,00	Brygge Fm. Base
+1.857,00	Brygge Tuff Mbr. NO Base
+1.857,00	HORDALAND GP. Base
+1.857,00	ROGALAND GP. Top
+1.857,00	Tare Fm. Top
+1.918,50	Tang Fm. Top
+1.918,50	Tare Fm. Base
+1.950,50	ROGALAND GP. Base
+1.950,50	SHETLAND GP. Top
+1.950,50	Springar Fm. Top
+1.950,50	Tang Fm. Base
+2.151,00	Nise Fm. Top
+2.151,00	Springar Fm. Base
+2.253,50	CROMER KNOLL GP. Top
+2.253,50	Lange Fm. Top
+2.253,50	Lyr Fm. Top
+2.253,50	Nise Fm. Base
+2.253,50	SHETLAND GP. Base
+2.346,50	CROMER KNOLL GP. Base
+2.346,50	Lange Fm. Base
+2.346,50	Lyr Fm. Base
+2.346,50	Spekk Fm. Top
+2.346,50	VIKING GP. Top
+2.365,00	Melke Fm. Top
+2.365,00	Spekk Fm. Base
+2.501,24	Melke sst Mbr. 3 NO 2006 Top
+2.501,24	Melke sst Mbr. Top
+2.501,24	Melke sst Mbr. Top
+2.523,26	Melke sst Mbr. 3 NO 2006 Base
+2.523,26	Melke sst Mbr. 2 NO 2006 Top
+2.529,90	Melke sst Mbr. 1 NO 2006 Top
+2.529,90	Melke sst Mbr. 2 NO 2006 Base
+2.562,40	Not Fm. NO 2006 Top
+2.562,40	VIKING GP. Base
+2.562,40	FANGST GP. NO 2006 Top
+2.562,40	Melke Fm. Base
+2.562,40	Melke sst Mbr. 1 NO 2006 Base
+2.562,40	Melke sst Mbr. Base
+2.562,40	Not 3 NO 2006 Top
+2.577,55	Not 2.3 NO 2006 Top
+2.577,55	Not 3 NO 2006 Base
+2.577,55	Not 2 NO 2006 Top
+2.588,50	Not 2.2 NO 2006 Top
+2.588,50	Not 2.3 NO 2006 Base
+2.588,61	Not 2.2 NO 2006 Top
+2.599,10	Not 2.1 NO 2006 Top
+2.599,10	Not 2.2 NO 2006 Base
+2.611,05	Not 1 NO 2006 Top
+2.611,05	Not 2 NO 2006 Base
+2.611,05	Not 2.1 NO 2006 Base
+2.618,50	Ile 2 NO 2006 Top
+2.618,50	Ile 2.2 NO 2006 Top
+2.618,50	Ile 2.2.2 NO 2006 Top
+2.618,50	Ile Fm. NO 2006 Top
+2.618,50	Not 1 NO 2006 Base
+2.618,50	Not Fm. NO 2006 Base
+2.623,12	Ile 2.2.1 NO 2006 Top
+2.623,12	Ile 2.2.2 NO 2006 Base
+2.627,63	Ile 2.1 NO 2006 Top
+2.627,63	Ile 2.2 NO 2006 Base
+2.627,63	Ile 2.2.1 NO 2006 Base
+2.639,86	Ile 2.1 NO 2006 Base
+2.639,86	Ile 1 NO 2006 Top
+2.639,86	Ile 1.3 NO 2006 Top
+2.639,86	Ile 2 NO 2006 Base
+2.644,34	Ile 1.2 NO 2006 Top
+2.644,34	Ile 1.3 NO 2006 Base
+2.656,34	Ile 1.1 NO 2006 Top
+2.658,00	Ile 1.1 NO 2006 Top
+2.658,00	Ile 1.2 NO 2006 Base
+2.664,26	Tofte 2.2 NO 2006 Top
+2.664,51	Ile 1 NO 2006 Base
+2.664,51	Ile 1.1 NO 2006 Base
+2.664,51	Tofte 2 NO 2006 Top
+2.664,51	Tofte 2.2 NO 2006 Top
+2.664,51	BAAT GP. NO 2006 Top
+2.664,51	FANGST GP. NO 2006 Base
+2.664,51	Ile Fm. NO 2006 Base
+2.664,51	Tofte Fm. NO 2006 Top
+2.667,78	Tofte 2.1 NO 2006 Top
+2.667,78	Tofte 2.2 NO 2006 Base
+2.703,09	Tofte 1.2 NO 2006 Top
+2.703,09	Tofte 1.2.2 NO 2006 Top
+2.703,10	Tofte 1 NO 2006 Top
+2.703,10	Tofte 2 NO 2006 Base
+2.703,10	Tofte 2.1 NO 2006 Base
+2.711,88	Tofte 1.2.1 NO 2006 Top
+2.711,88	Tofte 1.2.2 NO 2006 Base
+2.715,43	Tofte 1.1 NO 2006 Top
+2.715,43	Tofte 1.2 NO 2006 Base
+2.715,43	Tofte 1.2.1 NO 2006 Base
+2.719,30	Tilje 4 NO 2006 Top
+2.719,30	Tilje Fm. NO 2006 Top
+2.719,30	Tofte Fm. NO 2006 Base
+2.719,30	Tofte 1 NO 2006 Base
+2.719,30	Tofte 1.1 NO 2006 Base
+2.730,00	Tilje 3 NO 2006 Top
+2.730,00	Tilje 4 NO 2006 Base
+2.752,50	Tilje 2 NO 2006 Top
+2.752,50	Tilje 3 NO 2006 Base
+2.790,30	Tilje 1 NO 2006 Top
+2.790,30	Tilje 2 NO 2006 Base
+2.818,50	Aare Fm. NO 2006 Top
+2.818,50	Tilje 1 NO 2006 Base
+2.818,50	Tilje Fm. NO 2006 Base
+2.918,00	Aare Fm. NO 2006 Base
+2.918,00	BAAT GP. NO 2006 Base
